@@ -34,7 +34,7 @@ function toggleMenu() {
 }
 
 // Fechar menu ao clicar em um link
-document.querySelectorAll('.menu-link').forEach(link => {
+document.querySelectorAll('.menu-link, .menu-contato').forEach(link => {
     link.addEventListener('click', () => {
         document.getElementById('menu').classList.remove('active');
         document.querySelector('.hamburger').classList.remove('active');
