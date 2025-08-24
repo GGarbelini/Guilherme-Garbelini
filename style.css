@@ -447,6 +447,8 @@ p {
         font-weight: bold;
         margin-bottom: 30px;
         color: #ffffff;
+        text-align: center;
+        
     }
 
     p {
@@ -909,6 +911,7 @@ footer {
         padding: 40px 20px;
         h2{
             font-size: 30px;
+           
         }
         p{
             font-size: 18px;
@@ -919,6 +922,9 @@ footer {
         align-items: center;
         text-align: center;
         
+    }
+    .info-projetos {
+        margin-right: 0;
     }
 
     .projetos-imagem {
