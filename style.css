@@ -1001,22 +1001,20 @@ footer {
     }
 
     
-    
-    .footer-img {
-        max-width: 100px;
+    footer{
+    .logo {
+        max-width: 10000px;
         height: auto;
         margin-left: 40px;
         
     }
 
 
-    .icones {
+    
 
-        display: none;
-    }
-
-    footer p {
+     p {
         display: none;
 
     }
+}
 }
